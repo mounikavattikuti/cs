@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+ <head> 
+  <title>aboutpage</title> 
+ </head> 
+ <body bgcolor="green"> 
+  <a href="navigation.html">home</a> 
+  <a href="about.html">aboutus</a> 
+  <a href="form.html">contact us</a> 
+  <a href="gallery.html">Gallery</a> 
+  <font color="white"> <h3>aboutus</h3> </font> 
+  <font color="white"> <small>utdh kddvj kgsthv urfvuu getuvccggj gffuhc kfsvbn</small> </font> 
+ </body>
+</html>
